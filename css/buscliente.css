@@ -1,0 +1,65 @@
+body{
+ 
+
+ 
+  background-size:cover; 
+  font-family: sans-serif;
+
+}
+
+
+.h1busqueda{
+ 
+ margin: 0 0 10px;
+ padding: 0;
+ color:#3572d0;
+ font-size: 40px;
+ 
+}
+
+.box{
+
+  position:absolute;
+  top: 50% ;
+  left:50% ;
+  width: 500px;
+  
+  
+
+}
+
+.inputbusqueda{
+  
+  position: relative;
+  display: inline-block;
+  font-size: 20px;
+  box-sizing: border-box;  
+  
+  
+  
+}
+
+.inputbusqueda[type="text"]{
+ 
+ background:#b7c2d4;
+ width: 380px;
+ height: 50px;
+ border: none; 
+ outline: none;
+ padding: 0 25px;
+ border-radius: 25px 0 0 25px;
+} 
+
+.inputbusqueda[type="submit"]{
+ 
+ position: relative;
+ border-radius: 0 25px 25px 0;
+ width: 150px;
+ height: 50px;
+ border: none; 
+ outline: none;
+ cursor: pointer;
+ background: #3572d0;  
+ color: #fff;
+}
+

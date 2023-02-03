@@ -1,0 +1,38 @@
+
+#open_close{
+ width: 250px;
+ background: #000;
+ padding: 10px;       /*tamaño de la caja*/
+ border-radius: 5px;  /*radio del borde*/
+ border-bottom: 3px solid #fff; /*liene blanca*/ 
+ color: #fff;
+ cursor:pointer; 
+ margin: 30px 10px;
+ 
+ position: absolute;	
+ top:0; 
+ right:0; 
+}
+
+#login{
+ 
+  width: 250px;
+  height: 180px;
+  background: #000;
+  border-radius: 2px;
+  padding: 20px;
+  color: #fff;
+  
+  position: fixed;
+   position: fixed;	
+   top:70px; 
+   right:10px; 	
+}
+
+#Enviar{
+border: none;
+border-radius: 5px;
+margin: 20px 85px;
+width:100px; 
+}
+
