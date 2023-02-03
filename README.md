@@ -1,2 +1,2 @@
 # Tienda electronica
- Administracion de una tienda de repuestos electronicos
+ Administracion de un almacen de repuestos electronicos
